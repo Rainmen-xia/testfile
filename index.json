@@ -1,4 +1,4 @@
 {
-"test":"//aaaa:test",
-"tttt":"///aaaaLttt"
+"test/:test":"//aaaa:test",
+"tttt/sadsa/das:ttt":"///aaaaLttt"
 }
